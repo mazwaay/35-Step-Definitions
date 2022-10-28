@@ -1,4 +1,4 @@
-Feature: Test the search feature using the word "login"
+Feature: Test the search feature using the word bank
 
     As a valid user
     I want to search "login" in to search feature website
